@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://SahilSingh8400.github.io/career-craft-ai-43/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
